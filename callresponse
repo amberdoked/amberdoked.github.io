@@ -1,0 +1,6 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<Response>
+<Say voice="alice">Here from Galaxy Hs,i am glad to say that you has been successed.</Say>
+<Pause length="1"/>
+<Say voice="alice">Let us know if we can help you in any way during your development.</Say>
+</Response>
